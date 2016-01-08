@@ -12,7 +12,7 @@
         "icao": "VHHH",
         "iata": "HKG",
         "category": "major"
-    },
+    }, 
     {
         "id": 2,
         "coordinates_wkt": "POINT (120.34515634215063 22.57170610544221)",
